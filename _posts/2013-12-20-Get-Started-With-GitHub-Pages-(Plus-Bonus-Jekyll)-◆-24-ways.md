@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Github pages / Jekyll tutorial
-tags: [github pages, jekyll]
+tags: [github pages, jekyll, Anna Debenham]
 ---
 
 >After several failed attempts at getting set up with GitHub Pages, I vowed that if I ever figured out how to do it, I’d write it up. Fortunately, I did eventually figure it out, so here is my write-up.
