@@ -1,6 +1,8 @@
 ---
+layout: post
+title: Scientists decipher dog-tail wags
 Date:	November 1, 2013 at 11:31 AM
-tags:	article, behavior, Dogs, tail
+tags:	article behavior dogs tail
 Location:	University of North Carolina At Wilmington, Wilmington, NC, United States
 Weather:	75° Sunny
 ---
