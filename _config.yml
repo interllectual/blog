@@ -2,7 +2,7 @@ title:            Andrea Arbogast.com
 description:      Assorted crap
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost
+#url:              http://localhost
 
 # Owner/author information
 owner:
