@@ -1,0 +1,4 @@
+name: Andrea Arbogast blog
+markdown: redcarpet
+pygments: true
+baseurl: /blog
