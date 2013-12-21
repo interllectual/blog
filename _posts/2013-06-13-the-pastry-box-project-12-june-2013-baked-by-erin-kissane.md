@@ -1,7 +1,7 @@
 ---
 post: layout
 title: Erin Kissane quote
-tags: [manipulation, Erin Kissane, life-work]
+tags: 
 link: http://the-pastry-box-project.net/erin-kissane/2013-june-12/
 ---
 
