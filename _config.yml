@@ -1,17 +1,19 @@
 title:            Andrea Arbogast.com
-description:      Assorted crap
+description:      Web design, university web development, performing puppies
+logo:             pup1.jpg
 disqus_shortname: 
-#Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://interllectual.github.io/blog/
+search:           true
+#Change url to your domain. Leave localhost server or blank when working locally.
+url:              http://interllectual.github.io/blog
+#http://localhost
 
 # Owner/author information
 owner:
-  name:           Andrea Arbogast
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Andrea
+  avatar:         bio-photo.jpg
+  email:          andrea.arbogast@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        andrea
   facebook:       
   github:         
   stackexchange:  
@@ -20,10 +22,7 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
-
-# Background image to be tiled on all pages
-background: ps_neutral.png
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -34,11 +33,10 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+  - title: About
+    url: /about
+  - title: Articles
+    url: /articles
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -49,22 +47,19 @@ markdown:    kramdown
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
-# Amount of post to show on home page
-paginate: 5
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  use_coderay: false
 
   coderay:
-    coderay_line_numbers: nil
+    coderay_line_numbers: 
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
