@@ -4,8 +4,9 @@ logo:             pup1.jpg
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://interllectual.github.io/blog
-#http://localhost
+url:              http://localhost 
+#http://interllectual.github.io/blog
+
 
 # Owner/author information
 owner:
