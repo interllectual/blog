@@ -1,6 +1,8 @@
-Title: I'm sick of being marketed to
-Date: 2012-10-19 00:00
-Tags: twitter, marketing
+---
+layout: post
+title: I'm sick of being marketed to
+tags: twitter marketing
+---
 
 Seriously. Twitter, you are the newest culprit. 
 

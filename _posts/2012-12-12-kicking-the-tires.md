@@ -1,5 +1,6 @@
-Title: Kicking the tires
-Date: 2012-12-12 00:00
-Tags: tweet
+---
+layout: post
+title: Kicking the tires
+---
 
 Kicking the tires of a new system. More to come.

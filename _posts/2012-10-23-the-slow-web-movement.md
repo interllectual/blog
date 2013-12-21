@@ -1,6 +1,8 @@
-Title: The slow web movement
-Date: 2012-10-23 00:00
-Tags: culture, twitter, web
+---
+layout: post
+title: The slow web movement
+tags: culture twitter web
+---
 
 Holy crap, this really resonates: [The Slow Web](http://blog.jackcheng.com/post/25160553986/the-slow-web) by Jack Cheng.
 

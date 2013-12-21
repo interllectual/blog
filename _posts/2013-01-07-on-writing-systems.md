@@ -1,6 +1,8 @@
-Title: On writing systems
-Date: 2013-01-07 00:00
-Tags: writing, day-one, slogger
+---
+layout: post
+title: On writing systems
+tags: [writing, day one, slogger]
+---
 
 I am still trying to figure out the best system for writing. 
 
