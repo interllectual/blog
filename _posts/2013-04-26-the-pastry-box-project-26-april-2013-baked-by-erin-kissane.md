@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Being Human
-tags: news trolling erin-kissane infrmation-management
+title: "Link: Being Human"
+tags: [Erin Kissane, news, trolling, information management, link]
 link: http://the-pastry-box-project.net/erin-kissane/2013-april-26/
 ---
 

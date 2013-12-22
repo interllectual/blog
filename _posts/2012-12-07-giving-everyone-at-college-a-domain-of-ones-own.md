@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Giving Everyone at College a Domain of One's Own
-tags: [digital identity, personal data]
+title: "Link: Giving Everyone at College a Domain of One's Own"
+tags: [digital identity, personal data, link]
 link: http://chronicle.com/blogs/techtherapy/2012/12/05/episode-101-giving-everyone-at-college-a-domain-of-ones-own/?cid=wc&utm_sourc
 ---
 

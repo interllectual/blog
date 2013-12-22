@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Responsive Navigation Patterns
-tags: [web design, mobile, responsive, brad frost]
+title: "Link: Responsive Navigation Patterns"
+tags: [web design, mobile, responsive, Brad Frost, link]
 link: http://bradfrostweb.com/blog/web/responsive-nav-patterns/
 ---
 

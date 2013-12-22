@@ -200,33 +200,34 @@ font-weight: normal;
 		margin-left: 0;
 	}
 }
-.entry-tags {
+/*.entry-tags {
 	display: block;
 	margin-top: 2em;
 	text-transform: uppercase;
 	.font-rem(16);
 	font-weight: 600;
 	a { color: @text-color; }
-}
+}*/
 span + .entry-title {
 	margin-top: 0;
 }
 .entry-title {
 	font-family: @alt-font;
-	.font-rem(36);
-	line-height: 1;
+	.font-rem(20);
+	line-height: 1.1;
 	letter-spacing: -1px;
 	a {
 		color: @black;
-		text-decoration: underline;
 	}
 	@media @medium {
 		max-width: 600px;
-		.font-rem(52);
+		.font-rem(24);
 	}
 	@media @large {
 		max-width: 800px;
-		.font-rem(50);
+		.font-rem(36);
+		margin-left: 180px;
+		margin-right: 180px;
 	}
 }
 .entry-wrapper {

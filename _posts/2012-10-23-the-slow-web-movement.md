@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The slow web movement
-tags: culture twitter web
+title: "Link: The slow web movement"
+tags: culture twitter web link
+link: http://blog.jackcheng.com/post/25160553986/the-slow-web
 ---
 
 Holy crap, this really resonates: [The Slow Web](http://blog.jackcheng.com/post/25160553986/the-slow-web) by Jack Cheng.

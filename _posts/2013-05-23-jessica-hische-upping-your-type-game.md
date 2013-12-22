@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jessica Hische - Upping Your Type Game
-tags: design typography jessica-hische
+title: "Link: Jessica Hische - Upping Your Type Game"
+tags: [Jessica Hische, design, typography, link]
 link: http://jessicahische.is/talkingtype
 ---
 

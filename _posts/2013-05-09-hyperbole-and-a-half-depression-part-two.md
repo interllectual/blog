@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hyperbole and a Half: Depression Part Two"
-tags: depression
+title: "Link: Hyperbole and a Half: Depression Part Two"
+tags: depression link
 link: http://hyperboleandahalf.blogspot.com/2013/05/depression-part-two.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Agility Nerd: Seventy Two Backyard Courses!"
-Tags: agility courses agilitynerd smallspace
+title: "Link: Agility Nerd: Seventy Two Backyard Courses!"
+Tags: [agility, courses, Agility Nerd, smallspace, link]
 link: http://agilitynerd.com/blog/agility/courses/steve/72-backyard-sequences.html
 ---
 

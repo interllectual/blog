@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text-align: Justify and RWD"
-tags: responsive-web-design technique
+title: "Link: Text-align: Justify and RWD"
+tags: [responsive design, technique]
 link: http://www.barrelny.com/blog/text-align-justify-and-rwd/
 ---
 

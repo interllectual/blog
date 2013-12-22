@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fargo
-tags: dropbox text-editor dave-winer outliner fargo opml
+title: "Link: Fargo"
+tags: [Dropbox, text editor, Dave Winer, outliner, link]
 link: http://smallpicture.com/fargoDocs.html
 ---
 
