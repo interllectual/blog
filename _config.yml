@@ -1,11 +1,10 @@
 title:            Andrea Arbogast.com
 description:      Web design, university web development, performing puppies
-logo:             pup1.jpg
+logo:             pup.png
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost 
-#http://interllectual.github.io/blog
+url:              http://interllectual.github.io/blog
 
 
 # Owner/author information
