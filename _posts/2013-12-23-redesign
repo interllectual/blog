@@ -1,0 +1,13 @@
+---
+layout: post
+title: Yep, I did it again
+tags: [meta, jekyll]
+---
+
+I had afew days to myself, and what do you know, I ended up redoing my personal site. Seems to be kind of a pattern for me. 
+
+I am really liking this new setup. I liked the flat-file site I had goign with Scriptogram, but development of that product seems to have stopped. I had a look at Skrivr, but it didn't really resonate enough to get me to make a switch. Then I read the 24Ways article on Jekyll and GitHub pages, and for the first time Jekyll clicked with me.
+
+It took me about a day to figure out how to get everything up and running, including hacking together a couple of OS X services that automatically format link posts and quote posts for me from selected text in the browser. It took about another day to choose and modify a theme to do what I wanted, and about half a day to reformat and clean up the yaml data in my Scriptogram posts. So not bad.
+
+As alsways, it remains to be seen whether I will actually keep this version alive and kicking, but I am happy so far with the process.
