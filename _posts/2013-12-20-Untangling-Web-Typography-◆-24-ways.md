@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Type-o-matic tool"
+title: "Type-o-matic tool"
 tags: [Nicole Sullivan, css, typography, analysis, tool, link]
 link: http://24ways.org/2013/untangling-web-typography/
 ---

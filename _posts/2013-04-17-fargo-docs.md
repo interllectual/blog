@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Fargo"
+title: "Fargo"
 tags: [Dropbox, text editor, Dave Winer, outliner, link]
 link: http://smallpicture.com/fargoDocs.html
 ---

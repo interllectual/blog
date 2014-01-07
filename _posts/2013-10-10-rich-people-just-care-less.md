@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Rich People Just Care Less"
+title: "Rich People Just Care Less"
 tags: politics sociology empathy link
 link: http://opinionator.blogs.nytimes.com/2013/10/05/rich-people-just-care-less/?_r=0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Project Hubs: A Home Base for Design Projects"
+title: "Project Hubs: A Home Base for Design Projects"
 tags: [Brad Frost, workflow, web design, tool, link]
 link: http://24ways.org/2013/project-hubs/
 ---

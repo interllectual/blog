@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: The first 'scientist' was a woman"
+title: "The first 'scientist' was a woman"
 tags: [science, women, Mary Somerville]
 link: http://thereconstructionists.org/post/59444876063/mary-somerville?utm_content=bufferbce5e&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
 ---

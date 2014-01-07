@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Is what I am about to say better than silence?"
+title: "Is what I am about to say better than silence?"
 tags: [Mike Monteiro, social media, responsibility, link ]
 link: http://the-pastry-box-project.net/mike-monteiro/2013-april-22/
 ---

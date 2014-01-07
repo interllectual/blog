@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quote: Scott Riley: Fuck you and fuck your tools"
+title: "Scott Riley: Fuck you and fuck your tools"
 tags: design tools quote
 link: http://scottrileydesigns.co.uk/posts/fuck-you-and-fuck-your-tools
 ---

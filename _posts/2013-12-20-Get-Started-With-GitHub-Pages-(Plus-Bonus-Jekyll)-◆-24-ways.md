@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Github pages / Jekyll tutorial"
+title: "Github pages / Jekyll tutorial"
 tags: [Anna Debenham, github pages, jekyll]
 link: http://24ways.org/2013/get-started-with-github-pages/
 ---

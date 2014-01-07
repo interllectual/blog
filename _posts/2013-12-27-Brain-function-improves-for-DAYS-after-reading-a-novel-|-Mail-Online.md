@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Brain function improves for DAYS after reading a novel"
+title: "Brain function improves for DAYS after reading a novel"
 tags: [reading, science, brain]
 link: http://www.dailymail.co.uk/sciencetech/article-2529855/How-book-really-change-life-Brain-function-improves-DAYS-reading-novel.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Feisty Females"
+title: "Feisty Females"
 tags: training dogs dominance link
 link: http://www.canismajor.com/dog/feisty.html
 ---

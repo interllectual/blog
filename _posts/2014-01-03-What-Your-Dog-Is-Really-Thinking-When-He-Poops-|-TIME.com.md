@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: What Your Dog Is Really Thinking When He Poops?"
+title: "What Your Dog Is Really Thinking When He Poops"
 tags: [dogs, science, magnetism]
 link: http://newsfeed.time.com/2014/01/03/what-your-dog-is-really-thinking-when-he-poops/
 ---

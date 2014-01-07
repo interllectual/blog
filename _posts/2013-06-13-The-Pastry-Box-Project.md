@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quote: The dangers of being valuable"
+title: "The dangers of being valuable"
 tags: [quote, Erin Kissane, manipulation, life-work]
 ---
 

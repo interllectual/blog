@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Unicorn Institute"
+title: "Unicorn Institute"
 tags: [ux, education, Jared Spool, Leslie Jensen-Inman]
 link: http://unicorninstitute.com/blog/
 ---

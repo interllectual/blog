@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: The web we lost"
+title: "The web we lost"
 tags: [facebook, twitter, flickr, Anil Dash, social web, link]
 link: http://dashes.com/anil/2012/12/the-web-we-lost.html
 ---

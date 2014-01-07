@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Make good art"
+title: "Make good art"
 tags: art inspiration link
 link: http://zenpencils.com/comic/50-neil-gaiman-make-good-art/
 ---

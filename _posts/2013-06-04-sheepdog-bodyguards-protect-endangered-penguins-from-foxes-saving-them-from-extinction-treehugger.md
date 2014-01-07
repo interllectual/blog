@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Sheepdog 'bodyguards' protect endangered penguins from foxes, saving them from extinction"
+title: "Sheepdog 'bodyguards' protect endangered penguins from foxes, saving them from extinction"
 tags: [dogs, penguins, endangered species, link]
 link: http://www.treehugger.com/natural-sciences/sheepdog-bodyguard-protect-endangered-penguins-foxes-autralia.html
 ---

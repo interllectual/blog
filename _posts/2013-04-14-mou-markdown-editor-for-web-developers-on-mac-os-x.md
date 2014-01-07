@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Mou - Markdown editor for web developers, on Mac OS X"
+title: "Mou - Markdown editor for web developers, on Mac OS X"
 tags: [scriptogram, Mou, text editor, link]
 link: http://mouapp.com/
 ---

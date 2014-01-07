@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: The slow web movement"
+title: "The slow web movement"
 tags: culture twitter web link
 link: http://blog.jackcheng.com/post/25160553986/the-slow-web
 ---

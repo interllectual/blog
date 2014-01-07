@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Boston Marathon bombing dogs sniff for explosives and comfort victims"
+title: "Boston Marathon bombing dogs sniff for explosives and comfort victims"
 tags: [dogs, Boston marathon, link]
 link: http://now.msn.com/boston-marathon-bombing-dogs-sniff-for-explosives-and-comfort-victims?ocid=vt_twmsnnow
 ---

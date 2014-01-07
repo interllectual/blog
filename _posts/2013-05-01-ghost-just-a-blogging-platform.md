@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Ghost: Just a Blogging Platform"
+title: "Ghost: Just a Blogging Platform"
 tags: [blogging, markdown, text editor, link]
 link: http://tryghost.org/features.html
 ---

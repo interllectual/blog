@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Stanford Guidelines for Web Credibility"
+title: "Stanford Guidelines for Web Credibility"
 tags: [web design, research, guidelines, credibility, link]
 link: http://credibility.stanford.edu/guidelines/index.html
 ---

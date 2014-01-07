@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quote: Managing a Mind"
+title: "Managing a Mind"
 tags: [depression, psychology, impostor syndrome, Christopher Murphy]
 ---
 
