@@ -8,8 +8,19 @@
 </head>
 
 <body id="post" itemscope itemtype="http://schema.org/WebPage">
+{% if page.image.feature %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+  <div class="wrap">
+    <a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" itemprop="logo"></a>
+  </div>
+</header><!-- /.masthead -->
+{% else %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+  <div class="wrap">
+    
+    <h1 class="site-title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
+    <h2 class="site-description" itemprop="description">{{ site.description }}</h2>
+  </div>
+</header><!-- /.masthead -->{% endif %}
 
-{% include navigation.html %}
 
 <div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
   <article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
@@ -18,11 +29,16 @@
       <header class="entry-header">
        
         {% if page.link %}
-          <h1 class="entry-title" itemprop="headline"><a href="{{ page.link }}"><i class='icon-share'></i> {% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</a></h1>
+          <h1 class="entry-title" itemprop="headline"><a href="{{ page.link }}">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %} <i class="icon-long-arrow-right" style="color: white;opacity: 0.9;"></i></a></h1>
         {% else %}
           <h1 class="entry-title" itemprop="headline">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
       </header>
+      
+      <div class="entry-content" itemprop="description">
+        {{ content }}
+        {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
+      </div><!-- /.entry-content -->
       <footer class="entry-meta">
         <!-- <img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
         <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">By <span itemprop="name" class="fn"><a href="{{ site.url }}/about" title="About {{ site.owner.name }}" itemprop="url">{{ site.owner.name }}</a></span></span> -->
@@ -32,10 +48,6 @@
         <span><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}" itemprop="url"><i class="icon-link"></i> Permalink</a></span>
          {% for tag in page.tags %}<span class="entry-tags"><i class="icon-tag"></i> <a href="{{ site.url }}/tags.html#{{ tag | cgi_encode }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}</span>{% endunless %}{% endfor %}
       </footer>
-      <div class="entry-content" itemprop="description">
-        {{ content }}
-        {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
-      </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       {% if page.previous %}
@@ -47,6 +59,8 @@
     </nav><!-- /.pagination -->
   </article>
 </div><!-- /#main -->
+
+{% include navigation.html %}
 
 <div class="footer-wrapper">
   <footer role="contentinfo">

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Where love lives"
+type: quote
 tags: [love]
 ---
 

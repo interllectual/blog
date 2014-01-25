@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "<i class='icon-quote-left'></i> When 'Life Hacking' Is Really White Privilege"
+title: "When 'Life Hacking' Is Really White Privilege"
+type: quote
 tags: [quote, privilege]
 ---
 

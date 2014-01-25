@@ -8,20 +8,32 @@
 </head>
 
 <body id="page" itemscope itemtype="http://schema.org/WebPage">
+{% if page.image.feature %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+    <div class="wrap">
+        <a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" itemprop="logo"></a>
+    </div>
+</header><!-- /.masthead -->
+{% else %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+    <div class="wrap">
+        
+        <h1 class="site-title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
+        <h2 class="site-description" itemprop="description">{{ site.description }}</h2>
+    </div>
+</header><!-- /.masthead -->{% endif %}
 
 <div id="main" role="main" itemprop="mainContentOfPage">
-  <article class="entry" itemscope>
-    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" itemprop="image">{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>{% endif %}{% endif %}
-    <div class="entry-wrapper">
+  <article class="home entry" itemscope>
+    
       <header class="entry-header">
         <h1 class="entry-title" itemprop="name">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
       </header>
       <div class="entry-content" itemprop="description">
         {{ content }}
       </div><!-- /.entry-content -->
-    </div><!-- /.entry-wrapper -->
+ 
   </article>
 </div><!-- /#main -->
+
 {% include navigation.html %}
 <div class="footer-wrapper">
   <footer role="contentinfo">
