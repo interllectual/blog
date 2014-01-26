@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link: Scrolling is easier than clicking"
+title: "Scrolling is easier than clicking"
 tags: [user interface, scrolling, fold]
 link: http://bokardo.com/archives/scrolling-easier-clicking/
 ---
