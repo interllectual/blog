@@ -7,27 +7,27 @@
 {% include head.html %}
 </head>
 
-<body id="home" itemscope itemtype="http://schema.org/WebPage">
-{% if page.image.feature %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+<body id="home">
+{% if page.image.feature %}<header class="masthead">
     <div class="wrap">
-        <a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" itemprop="logo"></a>
+        <a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo"></a>
     </div>
 </header><!-- /.masthead -->
-{% else %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
+{% else %}<header class="masthead">
     <div class="wrap">
         
         <h1 class="site-title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
-        <h2 class="site-description" itemprop="description">{{ site.description }}</h2>
+        <h2 class="site-description">{{ site.description }}</h2>
     </div>
 </header><!-- /.masthead -->{% endif %}
 
-<div id="main" role="main" itemprop="mainContentOfPage">
-  <article class="home entry" itemscope>
+<div id="main" role="main">
+  <article class="home entry">
     
       <header class="entry-header">
-        <h1 class="entry-title" itemprop="name">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
+        <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
       </header>
-      <div class="entry-content" itemprop="description">
+      <div class="entry-content">
         {{ content }}
       </div><!-- /.entry-content -->
  
