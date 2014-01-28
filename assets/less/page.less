@@ -3,11 +3,16 @@ html {
 }
 
 body {
-		margin: 0;
+	margin: 0;
 	padding: 0;
-	width: 100%;
 	background-color: @white;
 	border-top: 5px solid @black;
+
+}
+
+#content {
+	margin: 0;
+	padding: 0 10px 0 10px;
 		background: url(../../images/pup15.png) no-repeat left top;
 		background-attachment: fixed;
 	  -webkit-background-size: contain;
@@ -15,13 +20,11 @@ body {
   -o-background-size: contain;
   background-size: contain;
 
-  
+
 @media @small {
 		margin: 0;
-	padding: 0;
-	width: 100%;
-	background-color: @white;
-	border-top: 5px solid @black;
+	padding: 0 10px 0 10px;
+
 		background: url(../../images/pup15.png) no-repeat left top;
 		background-attachment: fixed;
 	  -webkit-background-size: contain;
@@ -34,10 +37,8 @@ body {
 
 	@media @medium {
 	margin: 0;
-	padding: 0;
-	width: 100%;
-	background-color: @white;
-	border-top: 5px solid @black;
+	padding: 0 15% 0 33%;
+
 		.font-rem(20);
 		background: url(../../images/pup60.png) no-repeat left top;
 		background-attachment: fixed;
@@ -50,24 +51,16 @@ body {
 	
 		@media @large {
 	margin: 0;
-	padding: 0;
-	width: 100%;
-	background-color: @white;
-	border-top: 5px solid @black;
-		
+	padding: 0 15% 0 33%;
+
 		background: url(../../images/pupfull.png) no-repeat left top;
-	background-attachment: fixed;
+		background-attachment: fixed;
 	  -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
 	}
 
-
-}
-
-#content {
-	
 }
 
 // Top Navigation
@@ -109,51 +102,14 @@ body {
 	}
 }
 // Responsive nav toggle stuff
-#site-nav {
-	z-index: 9000;
-	display: none;
-	@media @medium {
-		-webkit-animation-duration: 1s;
-		-moz-animation-duration: 1s;
-		-o-animation-duration: 1s;
-		animation-duration: 1s;
-	}
-	&.closed {
-		@media @medium {
-			display: block;
-		}
-	}
-	&.opened {
-		display: block;
-		max-height: 100%;
-		li {
-			float: none;
-			@media @medium {
-				float: left;
-			}
-		}
-	}
-}
-.no-js #site-nav {
-	display: block;
-}	
-#nav-toggle { 
-	z-index: 9999;
-	display: block;
-	vertical-align: top;
-	margin: 0;
-	padding: 4px 20px;
-	background-color: @black;
-	.rounded(0);
-	@media @medium {
-		display: none;
-	}
-}
+
+
+
 
 // Masthead
 // --------------------------------------------------
 .masthead {
-	margin-top: 100px;
+
 
 	.clearfix();
 	
@@ -162,8 +118,8 @@ body {
 		margin-top: 0;
 	}
 	.wrap {
-		text-align: center;
-		margin: 0 0 0 10%;
+		
+		
 
 		
 		@media @medium {
@@ -211,6 +167,7 @@ border-left: none;
 border-right: none;
 padding: 3px 3px 2px 3px;
 font-weight: normal;
+
 	
 }
 
@@ -236,24 +193,14 @@ font-weight: normal;
 	}
 }
 .entry-header {
-	max-width: 640px;
-	width: 100%;
 	margin-right: auto;
 	margin-left: auto;
 	@media @large {
-		max-width: 100%;
 		margin-right: 0;
-		margin-left: 10%;
+	
 	}
 }
-/*.entry-tags {
-	display: block;
-	margin-top: 2em;
-	text-transform: uppercase;
-	.font-rem(16);
-	font-weight: 600;
-	a { color: @text-color; }
-}*/
+
 span + .entry-title {
 	margin-top: 0;
 }
@@ -267,7 +214,7 @@ span + .entry-title {
 		color: @black;
 	}
 	@media @medium {
-		max-width: 600px;
+		
 		.font-rem(24);
 	}
 	@media @large {
@@ -276,34 +223,14 @@ span + .entry-title {
 	}
 }
 #post .entry-title, #page .entry-title {
-	margin-left: 180px;
+	
 }
 .link, blockquote.home {
 	text-indent: -.6em;
 }
-.entry-wrapper {
-	margin: 0 auto 3em;
-	max-width: 440px;
-	padding-right: 20px;
-	padding-left: 20px;
-	.clearfix();
-	@media @medium {
-		max-width: 760px;
-		padding-right: 60px;
-		padding-left: 60px;
-	}
-	@media @large {
-		max-width: 960px;
-	}
-}
+
 .entry-meta {
 font-family: @alt-font;
-	max-width: 640px;
-	width: 100%;
-	margin-right: auto;
-	margin-bottom: .5em;
-	margin-left: 29%;
-	display: block;
 	text-transform: uppercase;
 	.font-rem(14);
 	a { color: @text-color; }
@@ -330,10 +257,6 @@ font-family: @alt-font;
 	}
 }
 .entry-content {
-	max-width: 640px;
-	width: 100%;
-	margin-right: auto;
-	margin-left: 35%;
 	p:first-child {
 		margin-top: 0;
 	}
@@ -349,7 +272,7 @@ font-family: @alt-font;
 	}
 }
 #post .entry-content {
-	margin-left: 29%;	
+
 }
 .post-list {
 	li > a {
@@ -369,7 +292,7 @@ font-family: @alt-font;
 #page {
 	.entry-title {
 		
-		max-width: 100%;
+
 	}
 	.entry-content {
 		@media @large {
@@ -450,12 +373,11 @@ article.post:last-child {
 // --------------------------------------------------
 .footer-wrapper {
 	.clearfix();
-	margin: 2em auto;
+	margin: 2em auto 0;
 	text-align: center;
 	font-family: @alt-font;
 	.font-rem(14);
 	font-style: italic;
-	opacity: 0.8;
 }
 
 // Social Icons
