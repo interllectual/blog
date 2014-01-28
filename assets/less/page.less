@@ -3,22 +3,71 @@ html {
 }
 
 body {
+		margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: @white;
+	border-top: 5px solid @black;
+		background: url(../../images/pup15.png) no-repeat left top;
+		background-attachment: fixed;
+	  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+
+  
+@media @small {
+		margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: @white;
+	border-top: 5px solid @black;
+		background: url(../../images/pup15.png) no-repeat left top;
+		background-attachment: fixed;
+	  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+	}
+
+
+
+	@media @medium {
 	margin: 0;
 	padding: 0;
 	width: 100%;
 	background-color: @white;
 	border-top: 5px solid @black;
-	background: url(../../images/pupfull.png) no-repeat left top;
+		.font-rem(20);
+		background: url(../../images/pup60.png) no-repeat left top;
+		background-attachment: fixed;
+	  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+	}
+
+	
+		@media @large {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: @white;
+	border-top: 5px solid @black;
+		
+		background: url(../../images/pupfull.png) no-repeat left top;
 	background-attachment: fixed;
 	  -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
-	
-
-	@media @medium {
-		.font-rem(20);
 	}
+
+
+}
+
+#content {
+	
 }
 
 // Top Navigation
