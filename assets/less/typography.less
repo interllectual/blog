@@ -5,6 +5,7 @@ body {
 	font-weight: 400;
 	color: @text-color;
 	line-height: 1.6;
+	
 }
 
 // Headings
@@ -100,12 +101,23 @@ blockquote {
 	padding-left: 20px;
 	border-left: 2px solid #fff;
 	line-height: 1.4;
+
 }
 blockquote.home {
-	.font-size(35);
+	
 	padding: 0;
 	border: none;
 	line-height: 1.5;
+	.font-size(20);
+	@media @medium {
+			.font-size(25);
+			line-height: 1.5;
+		}
+		@media @large {
+			.font-size(35);
+			line-height: 1.5;
+		}
+
 }
 
 // Footnotes

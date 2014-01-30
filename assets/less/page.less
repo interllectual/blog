@@ -153,6 +153,19 @@ body {
 	font-size: 80px;
 	line-height: 65px;
 	letter-spacing: -2px;
+	@media @small {
+	font-size: 60px;
+	line-height: 45px;
+	text-align: center;
+	}
+	@media @medium {
+	font-size: 70px;
+	line-height: 35px;
+	}
+	@media @large {
+	font-size: 80px;
+	line-height: 65px;
+	}
 }
 .site-description {
 	margin-top: 0;
@@ -160,14 +173,23 @@ body {
 	margin: -3px 0 50px 0;
 text-transform: uppercase;
 letter-spacing: 2px;
-display: inline-block;
+
 clear: both;
 border: solid 1px #fff;
 border-left: none;
 border-right: none;
 padding: 3px 3px 2px 3px;
 font-weight: normal;
-
+text-align: center;
+@media @small {
+	.font-rem(9);
+	}
+	@media @medium {
+	.font-rem(11);
+	}
+	@media @large {
+	.font-rem(13);
+	}
 	
 }
 
