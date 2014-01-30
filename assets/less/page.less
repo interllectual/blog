@@ -151,17 +151,18 @@ body {
 	a { color: @black; }
 	font-family: "Maiden Orange", serif;
 	font-weight: normal;
-	font-size: 80px;
+	font-size: 53px;
 	line-height: 65px;
 	letter-spacing: -2px;
-	@media @small {
-	font-size: 60px;
-	line-height: 45px;
 	text-align: center;
+	@media @small {
+	font-size: 53px;
+	line-height: 45px;
+	
 	}
 	@media @medium {
 	font-size: 70px;
-	line-height: 35px;
+	line-height: 55px;
 	}
 	@media @large {
 	font-size: 80px;
@@ -170,11 +171,10 @@ body {
 }
 .site-description {
 	margin-top: 0;
-	.font-rem(13);
+	.font-rem(11);
 	margin: -3px 0 50px 0;
 text-transform: uppercase;
 letter-spacing: 2px;
-
 clear: both;
 border: solid 1px #fff;
 border-left: none;
@@ -183,7 +183,7 @@ padding: 3px 3px 2px 3px;
 font-weight: normal;
 text-align: center;
 @media @small {
-	.font-rem(9);
+	.font-rem(11);
 	}
 	@media @medium {
 	.font-rem(11);
@@ -229,7 +229,7 @@ span + .entry-title {
 }
 .entry-title {
 	font-family: @alt-font;
-	.font-rem(20);
+	.font-rem(30);
 	line-height: 1.1;
 	letter-spacing: -1px;
 	margin-bottom: .5em;
