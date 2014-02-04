@@ -19,6 +19,7 @@ body {
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
+  posiiton: relative;
 
 
 @media @small {
@@ -69,6 +70,18 @@ body {
 	text-align: center;
 	.clearfix();
 	font-family: @heading-font;
+	position: absolute;
+		top: 10px;
+	@media @small {
+		position: absolute;
+		top: 10px;
+	}
+	@media @medium {
+		position: static;
+	}
+	@media @large {
+		position: static;
+	}
 
 	ul {
 		display: inline-block;
@@ -109,43 +122,21 @@ body {
 // Masthead
 // --------------------------------------------------
 .masthead {
-
-
 	.clearfix();
-	
-
+	display: none;
+	@media @small {
+		display: none;
+	}
 	@media @medium {
-		margin-top: 0;
+		display: block;
 	}
-	.wrap {
-		
-		
+	@media @large {
+		display: block;
+	}
+	
 
-		
-		@media @medium {
-			
-		}
-		@media @large {
-			
-		}
-	}
 }
-.site-logo {
-	img {
-	
-	
-	   
-	    
-		@media @medium {
-		
-			
-		}
-		@media @large {
-			
-		
-		}
-	}
-}
+
 .site-title {
 	margin: 100px 0 0 0;
 	a { color: @black; }
