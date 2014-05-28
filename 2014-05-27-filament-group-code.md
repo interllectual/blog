@@ -1,11 +1,9 @@
+---
 layout: post
-tags: 
-  - programming
-  - code
-link: "http://filamentgroup.com/code/"
-
-## Filament Group open source code
+title: "Filament Group open source code"
+tags: [work, programming, code]
+link: http://filamentgroup.com/code/
+---
 
 Some potentially useful stuff here
 
-http://filamentgroup.com/code/
