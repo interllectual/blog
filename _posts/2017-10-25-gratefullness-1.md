@@ -1,7 +1,7 @@
 ---
 layout: post
-title: tesr
-date: 2017-10-25 19:35:04 -0400
+title: test
+date: 2017-10-25 19:36:46 -0400
 category: personal
 tags: [test]
 ---
@@ -10,13 +10,13 @@ tags: [test]
 
 ## Home
 
-1. 	
-2. 
-3. 
+1. 	dogs
+2. Dogs
+3. Dogs
 
 ##work
 
-1.
+1. Holly 
 2.
 3.	
 
