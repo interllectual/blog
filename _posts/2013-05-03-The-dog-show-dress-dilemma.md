@@ -2,6 +2,7 @@
 layout: post
 title: The dog show dress dilemma
 tags: fashion dogs akc conformation
+date: 2013-05-03 00:00:00 +0000
 ---
 
 If you have ever watched a dog show on TV and have any sort of fashion sense, I'm sure you have asked yourself why all the female handlers look so dowdy in their ill fitting skirt suits. 

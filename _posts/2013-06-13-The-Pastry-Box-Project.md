@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "The dangers of being valuable"
+title: The dangers of being valuable
 type: quote
-tags: [quote, Erin Kissane, manipulation, life-work]
+tags:
+- quote
+- Erin Kissane
+- manipulation
+- life-work
+date: 2013-06-13 00:00:00 +0000
 ---
 
 >When you internalize the idea that you’re precious and irreplaceable in a company or an industry, it’s easy to be wooed into life-altering decisions like handing over years of 80-hour weeks to companies whose work you don’t actually care about. The more you accept this flattery as your due, the easier it is to be hypnotized by interests that conflict with your own.

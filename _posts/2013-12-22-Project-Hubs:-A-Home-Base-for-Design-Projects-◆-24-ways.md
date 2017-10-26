@@ -1,8 +1,14 @@
 ---
 layout: post
-title: "Project Hubs: A Home Base for Design Projects"
-tags: [Brad Frost, workflow, web design, tool, link]
+title: 'Project Hubs: A Home Base for Design Projects'
+tags:
+- Brad Frost
+- workflow
+- web design
+- tool
+- link
 link: http://24ways.org/2013/project-hubs/
+date: 2013-12-22 00:00:00 +0000
 ---
 
 >Here’s what makes a project hub great: -- Serves as a centralized home base for the project --Trains clients and teams to decide in the browser --Easily and visually view project’s progress --Provides an archive for project artifacts

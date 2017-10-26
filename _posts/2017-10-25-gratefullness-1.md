@@ -1,12 +1,12 @@
 ---
 layout: post
 title: test
-date: '2017-10-25 23:36:46 +0000'
+date: 2017-10-25 23:36:46 +0000
 tags:
-  - test
+- test
 categories:
-  - personal
-  - gratefulness
+- personal
+- gratefulness
 published: true
 ---
 

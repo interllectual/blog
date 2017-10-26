@@ -1,7 +1,11 @@
 ---
 layout: post
 title: On writing systems
-tags: [writing, day one, slogger]
+tags:
+- writing
+- day one
+- slogger
+date: 2013-01-07 00:00:00 +0000
 ---
 
 I am still trying to figure out the best system for writing. 

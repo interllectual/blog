@@ -1,8 +1,15 @@
 ---
 layout: post
-title: "Type-o-matic tool"
-tags: [Nicole Sullivan, css, typography, analysis, tool, link]
+title: Type-o-matic tool
+tags:
+- Nicole Sullivan
+- css
+- typography
+- analysis
+- tool
+- link
 link: http://24ways.org/2013/untangling-web-typography/
+date: 2013-12-20 00:00:00 +0000
 ---
 
 Analyzes CSS typography used on a site

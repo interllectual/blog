@@ -1,7 +1,12 @@
 ---
 layout: post
 title: I designed this thing, and it has puppies.
-Tags: [web design, writing, dogs, personal data]
+Tags:
+- web design
+- writing
+- dogs
+- personal data
+date: 2012-12-20 00:00:00 +0000
 ---
 
 I have overhauled this place, making it into somewhere I like to write and somewhere I like to go back to and read the words I have written. 

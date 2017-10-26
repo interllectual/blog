@@ -2,6 +2,7 @@
 layout: post
 title: I'm sick of being marketed to
 tags: twitter marketing
+date: 2012-10-19 00:00:00 +0000
 ---
 
 Seriously. Twitter, you are the newest culprit. 

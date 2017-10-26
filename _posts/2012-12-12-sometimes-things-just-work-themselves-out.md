@@ -2,6 +2,7 @@
 layout: post
 title: Sometimes things just work themselves out
 tags: Samba dogs akc conformation
+date: 2012-12-12 00:00:00 +0000
 ---
 
 Got a letter in the mail from the AKC yesterday, saying that Samba was registered as "restricted" and therefore ineligible to compete in conformation. If she had won anything, she would have had to forfeit the points and return all prizes.

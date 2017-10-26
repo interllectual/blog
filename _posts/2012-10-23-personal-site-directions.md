@@ -2,6 +2,7 @@
 layout: post
 title: Personal site direction
 tags: notes
+date: 2012-10-23 00:00:00 +0000
 ---
 
 For some really want to have an archive of all my online data. Maybe because I don't have kids or something. But I think just like how we like to go through old letters to learn more about our ancestors, someday someone will want to go through this stuff to learn more about me or the crazy time I live in. I just feel like I need to have a personal history. 

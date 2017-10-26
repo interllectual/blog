@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: "/about/index.html"
 title: About Andrea
-modified: 2013-12-21
+modified: 2013-12-21 00:00:00 +0000
 image:
   feature: beerwisdom2.jpg
 ---

@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "Managing a Mind"
+title: Managing a Mind
 type: quote
-tags: [depression, psychology, impostor syndrome, Christopher Murphy]
+tags:
+- depression
+- psychology
+- impostor syndrome
+- Christopher Murphy
+date: 2013-12-23 00:00:00 +0000
 ---
 
 >At the bottom, this was all I could see. I felt overwhelmed by others’ perception of me. Was I a success or a failure? Would I be discovered as the fraud I’d convinced myself that I was? These twin pressures – that I was unconscious of at the time – had lead me to a place of crippling self-doubt, questioning my very existence. 

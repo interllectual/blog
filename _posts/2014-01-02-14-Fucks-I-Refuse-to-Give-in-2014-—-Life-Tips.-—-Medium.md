@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Where love lives"
+title: Where love lives
 type: quote
-tags: [love]
+tags:
+- love
+date: 2014-01-02 00:00:00 +0000
 ---
 
 >I prefer the little loves. My best friend’s daughter running around the kitchen chanting, “It’s all rainbows,” over and over again. The wag of a dog’s tail when you scratch the sweet spot behind her ear. Neglected nuances, subtle sincerity — that’s where love lives.
