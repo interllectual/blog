@@ -1,10 +1,14 @@
 ---
 layout: page
-permalink: /theme-setup/index.html
+permalink: "/theme-setup/index.html"
 title: Theme Setup
-description: "Instructions on how to install and customize the Jekyll theme So Simple."
-modified: 2013-09-11
-tags: [Jekyll, theme, install, setup]
+description: Instructions on how to install and customize the Jekyll theme So Simple.
+modified: 2013-09-11 00:00:00 +0000
+tags:
+- Jekyll
+- theme
+- install
+- setup
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
