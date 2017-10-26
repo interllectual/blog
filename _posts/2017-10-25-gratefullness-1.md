@@ -1,18 +1,19 @@
 ---
 layout: post
 title: test
-date: 2017-10-25 23:36:46 +0000
+date: '2017-10-25 23:36:46 +0000'
 tags:
-- test
+  - test
 categories:
-- personal
-- gratefulness
+  - personal
+  - gratefulness
+published: true
 ---
 
 
-#Today I am grateful for:
+## Today I am grateful for:
 
-## Home
+### Home
 
 1. dogs
 
@@ -20,7 +21,7 @@ categories:
 
 1. and more dogs
 
-##work
+### work
 
 1. Holly
 
