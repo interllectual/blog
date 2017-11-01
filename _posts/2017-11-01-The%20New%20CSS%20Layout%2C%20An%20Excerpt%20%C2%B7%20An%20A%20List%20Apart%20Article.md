@@ -1,9 +1,10 @@
 ---
 layout: post
 title: New CSS Layout
-date: 2017-11-01 15:21:35 -0400
-category: programming
-tags: [test]
+date: 2017-11-01 19:21:35 +0000
+tags:
+- test
+categories: programming
 ---
 
 
