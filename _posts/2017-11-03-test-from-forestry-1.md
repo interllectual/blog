@@ -8,3 +8,5 @@ file: ''
 test from forestry![](/images/beerwisdom2.jpg)
 
 > quote me
+
+![](/uploads/2017/11/03/P1230082.jpg)
