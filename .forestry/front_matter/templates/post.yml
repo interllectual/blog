@@ -1,0 +1,12 @@
+---
+hide_body: false
+fields:
+- type: tag_list
+  name: tag
+- type: textarea
+  label: text
+  config:
+    wysiwyg: true
+- type: file
+  name: file
+  label: file
