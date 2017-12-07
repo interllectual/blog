@@ -1,0 +1,20 @@
+---
+title: "OMG, did she actually post?"
+categories: personal
+tags:
+  -Friends & Family
+  -Humor
+  -Personal
+summary: 
+---
+<p>Yes. Yes she did.</p>
+
+<p>It has been so damn long that I feel like I sould be writing something deep and earth shattering, but I don&#8217;t have it in me. I decided I just needed to get this return-from-the-dead post out the door so I can stop feeling like a zombie and return to the vital stuff.</p>
+
+<p>Since I last posted, I quit my job, <a href="http://flickr.com/photos/walscapades/sets/72157606015302942/">said goodbye to all my great friends in California</a>, showed our house umpteen times, didn&#8217;t sell the house, had the movers come and pack up all our wordly possessions and load them into a truck on the day of our 10th wedding anniversary, spent the night our 10th wedding anniversary sleeping on the floor of our empty house, spent 5 crazy days on the road with two dogs and a cat and two cars and <a href="http://walscapades.com">two of the best friends anyone could hope to have</a>, almost didn&#8217;t close on the house we were trying to buy in the middle of the great national mortgage meltdown, finally closed on the house after sitting down in the office of our mortgage broker and making it clear we weren&#8217;t leaving until we had the keys to the house, got the keys and moved in, drank entirely too much champagne that night and purged the karma from the whole mortgage thing, said goodbye to the Walstons and sent them back to California, had all our wordly possessions show up on the hottest day I have ever experienced in my life and loaded them into the house, hosted my parents for a visit and made my mom unpack the whole kitchen and  all the linens, started a new job that is the same as the old job but on the other side of the country at a different university with different systems and a Windows environment that is blowing my mind, had to endure a departmental retreat complete with team building exercises my first week of work, had to endure more team building exercises at the new employee orientation my second week of work, had a fence installed for the dogs, spent the next 2 weeks working about 12 hours a day at the new gig and on a severely neglected freelance project, launched the first phase of the freelance project, hosted my sister and niece and brother-in-law and mom and dad for a week, went through extensive emergency preparations at work in anticipation of the hurricanes (yes, plural) that were headed here, endured a tropical storm that luckily didn&#8217;t become a hurricane even though we were ready, worked all afternoon this Sunday undoing all the hurricane preparations so that classes could proceed as usual on Monday, checked Twitter about twice during this whole time, and finally broke down and marked all my feeds as read.</p>
+
+<p>That about brings me up to present, although I&#8217;m sure I forgot something. Luckily, Natalie did a great job documenting our cross-country moving extravaganza: <a href="http://walscapades.com/2008/07/12/day-1-humboldt-to-humboldt/">it starts with this post, where you must promise to not notice how much weight I have gained since you last saw me</a>, and goes on through the next 6 posts. </p>
+
+<p>There is more I plan to write about soon, but this is about al I can manage for today, and I need to go cut <a href="http://flickr.com/photos/interllectual/2443872067/">Wallace&#8217;s</a> toenails before he scratches me one more time and I say something to him that I really don&#8217;t mean. </p>
+
+<p>Despite the craziness of the transition and intensely missing my friends and colleagues, I think we made the right decision to move. We love our new house, and I don&#8217;t miss the old one nearly as much as I thought I would. (There is also some good news about the old hosue that I am not mentioning because it is still in the works and I don&#8217;t want to jinx it.) We definitely couldn&#8217;t have made it through all of this without our awesome friends and family. And beer, wine, meds, and mojitos. But mostly the friends and family.</p>
