@@ -1,0 +1,20 @@
+---
+title: "An accessibility god calls me a Standardistatrix, and more thoughts on gender differences in web des"
+categories: work
+tags:
+  -Web Design
+summary: 
+---
+<p>I was looking through my server logs yesterday (Yes, I realize I just publicly admitted this&#8230; I officially need to get over myself) and I saw a reference from the del.icio.us links of someone named Joe Clark.  OK, I said to myself, there are probably hundreds of Joe Clarks online, this can&#8217;t possibly be the same guy I was afraid to talk to at <span class="caps">SXSW</span>.</p>
+
+<p>I did some more investigation, and found out that not only was the link from <a href="http://blog.fawny.org/"><em>that</em> Joe Clark</a>, but <a href="http://del.icio.us/joeclark/interllectual">he gave me the title of Standardistatrix</a>.  That is my new favorite title ever.  It will definitely solve my <a href="http://interllectual.com/musings/212/why-i-secretly-love-hate-the-term-webmaster">dilemma over the title Webmaster</a>.  I think I will see about getting business cards printed up this afternoon.</p>
+
+<p>This leads me (somehow) to put down some thoughts about a <a href="http://www.glam.ac.uk/news/releases/003056.php">recent press release put out by the University of Glamorgan</a> that was broght to my attention by <a href="http://www.katrinainguna.com">Inguna</a>.  The press release summarizes a study done by some of the profs at the university, which found that there were differences in the kinds of web designs that males and females preferred.  Sound <a href="http://interllectual.com/article/265/article-264-in-which-andrea-eats-some-humble-pie-and-then-goes-to-alaska">a bit</a> <a href="http://interllectual.com/article/253/male-vs-female-design-shades-of-grey">familiar</a>?</p>
+
+<p>I have since <a href="http://www.molly.com/2005/08/09/girls-prefer-circles-gender-bias-and-web-design/">seen a few</a> <a href="http://www.airbagindustries.com/archives/007942.php">discussions of the press release</a>, and I find the comments on these discussions fascinating.  It seems that everyone is quick to do everything they can to discredit the study.  Granted, there was no detail and I would like to see the original paper and go over the methods and statistics with a fine-toothed comb.  A press release is by definition a simplification of the issue so that everyone can understand the important points.  Just because the press release is bad doesn&#8217;t mean the study is bad, however.</p>
+
+<p>What I found more interesting, was the &#8220;no duh&#8221; response.  That is the response I had, because I have spent a lot of time thinking about this issue and examining my own biases, likes and dislikes on the web.  But it seems like some of the same kinds of folks who took issue with my articles (<a href="http://interllectual.com/article/257/rant-are-css-style-galleries-and-awards-sites-good-old-boys-clubs">1</a>, <a href="http://interllectual.com/article/265/article-264-in-which-andrea-eats-some-humble-pie-and-then-goes-to-alaska">2</a>) seem to think it is a no brainer that men and women have different aesthetics when it comes to the web.  Why it doesn&#8217;t follow in their logic that it would be a good idea to have more women out there judging standards based sites so that the male influence doesn&#8217;t become a self-fulfilling prophecy is a mystery to me.</p>
+
+<p>I also found some of the stats, if accurate, to be extremely interesting.  They found that 94% of 32 higher education web site showed a masculine design orientation, although the gender ratio of their target audience is about 1:1.  This is an important point, folks.  And the argument that there just aren&#8217;t as many women designing sites as men is borne out in this study as well, with an average of 74% of sites being produced my men or male teams.  I just had a thought&#8212; how does the lack of connection most girls feel with the aesthetics of the web influence their desire to go into web design?</p>
+
+<p>Well, enough lunchtime thoughts from this Standardistatrix.  I will be thinking more about all of this, and trying to get my hands on the original study.</p>
